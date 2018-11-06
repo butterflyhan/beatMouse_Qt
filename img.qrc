@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/bg">
+        <file>bg.jpg</file>
+    </qresource>
+    <qresource prefix="/mouse">
+        <file>Hammer2.png</file>
+        <file>Background.png</file>
+        <file>mouse.png</file>
+        <file>hammer1.png</file>
+        <file>bearMouse.png</file>
+    </qresource>
+</RCC>
